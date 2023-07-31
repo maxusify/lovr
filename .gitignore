@@ -12,6 +12,7 @@
 
 # Database
 **/*.db*
+**/*.session.sql
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
